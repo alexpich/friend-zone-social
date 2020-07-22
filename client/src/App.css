@@ -1,0 +1,26 @@
+html,
+body {
+  font: 62.5%;
+  background: #fcfcfc;
+}
+
+.navigation {
+  background-color: #68D391 !important;
+}
+
+.navigation .item {
+  color: #fff !important;
+}
+
+.container {
+  margin-top: 4rem;
+}
+
+.ui.menu.secondary {
+  margin: 0;
+  padding: 0;
+}
+
+.ui.stacked.segment:after {
+  content: none;
+}
